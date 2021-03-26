@@ -1,7 +1,6 @@
 # Expanding Cards
 
 ## Table of Contents
-
 - [Expanding Cards](#expanding-cards)
   - [Table of Contents](#table-of-contents)
   - [Purpose](#purpose)
