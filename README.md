@@ -2,11 +2,13 @@
 
 ## Table of Contents
 
-[Purpose](#purpose)
-[Final Product](#final-product)
-[Technologies](#technologies)
-[Questions](#questions)
-[Credits](#credits)
+- [Expanding Cards](#expanding-cards)
+  - [Table of Contents](#table-of-contents)
+  - [Purpose](#purpose)
+  - [Final Product](#final-product)
+  - [Technologies](#technologies)
+  - [Questions](#questions)
+  - [Credits](#credits)
 
 ## Purpose
 
